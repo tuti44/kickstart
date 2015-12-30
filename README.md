@@ -11,5 +11,3 @@ Hello world
 
 [This is a link](http://www.wix.com)
 
-And here is some code - 
-	return true;
